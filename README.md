@@ -4,6 +4,8 @@ Web application for centralizing artist and respective track data for clients of
 
 ## Getting Started
 
+Create an `.env` file, get the environment variables from [some_secure_credentials_host - TBD](#) and put them in there
+
 First, create a virtual environment and spin it up:
 
 ```bash
