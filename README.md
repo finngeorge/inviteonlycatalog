@@ -6,10 +6,11 @@ Web application for centralizing artist and respective track data for clients of
 
 Create an `.env` file, get the environment variables from [some_secure_credentials_host - TBD](#) and put them in there
 
-First, create a virtual environment and spin it up:
+First, create a virtual environment and spin it up and activate it:
 
 ```bash
 python3 -m venv venv
+source venv/bin/activate
 ```
 
 Then, install necessary modules:
